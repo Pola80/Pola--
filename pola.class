@@ -1,0 +1,7 @@
+class pola{
+
+             publicstatic void main(string[] args}{
+                system.out.println("this is the first program in this place");
+
+}
+}
